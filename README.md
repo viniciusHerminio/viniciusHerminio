@@ -10,7 +10,7 @@
   <img width="40.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusHerminio&theme=dark&hide_border=true" />
 </div>
  <div align="center">
-<img align="center" alt="Vini-topLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusHerminio&layout=compact&theme=dark">
+<img align="center" alt="Vini-topLangs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusHerminio&layout=compact&theme=dark&hide_border=true">
 </div>
  
 <div style="display: inline_block"><br>
