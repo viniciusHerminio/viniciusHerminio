@@ -4,12 +4,12 @@
 - 🌱 Aprendendo Javascript
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div>
   <a href="https://github.com/viniciusHerminio">
   <img width="40.5%" src="https://github-readme-stats.vercel.app/api?username=viniciusHerminio&show_icons=true&theme=dark&include_all_commits=false&count_private=true&hide_border=true"/>
   <img width="40.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusHerminio&theme=dark&hide_border=true" />
 </div>
- <div align="center">
+ <div>
 <img align="center" alt="Vini-topLangs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusHerminio&layout=compact&theme=dark&hide_border=true">
 </div>
  
