@@ -9,6 +9,9 @@
   <img width="40.5%" src="https://github-readme-stats.vercel.app/api?username=viniciusHerminio&show_icons=true&theme=dark&include_all_commits=false&count_private=true&hide_border=true"/>
   <img width="40.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusHerminio&theme=dark&hide_border=true" />
 </div>
+ <div text-aling="center">
+<img align="center" alt="Vini-topLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusHerminio&layout=compact&theme=dark">
+</div>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,10 +21,6 @@
 </div>
 
 ##
-  
-<div aling="center">
-<img align="center" alt="Vini-topLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusHerminio&layout=compact&theme=dark">
-</div>
 
 <div>
  <a href="https://www.instagram.com/code.herminio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
