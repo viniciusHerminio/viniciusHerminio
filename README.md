@@ -21,7 +21,7 @@
 
 ##
 <div>
-<img align="center" alt="Vini-HTML" height="30" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusHerminio">
+<img align="center" alt="Vini-topLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusHerminio">
 </div>
 
 <div>
