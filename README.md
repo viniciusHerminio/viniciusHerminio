@@ -1,7 +1,6 @@
 ## Olá! Eu sou Vinícius Hermínio
 
-- 🔭 Estudo na Trybe, com formação Full-Stack
-- 🌱 Aprendendo Javascript
+- 🔭 Desenvolvedor Full Stack em formação pela Trybe
 - 😄 Pronouns: ele/dele
 
 <div>
