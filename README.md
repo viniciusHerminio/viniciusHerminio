@@ -19,8 +19,8 @@
 
 ##
   
-<div>
-<img align="center" alt="Vini-topLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusHerminio&layout=compact">
+<div aling="center">
+<img align="center" alt="Vini-topLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusHerminio&layout=compact&theme=dark">
 </div>
 
 <div>
